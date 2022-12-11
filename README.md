@@ -13,7 +13,7 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)  
 
 :seedling: I'm learning **backend** and **frontend**  
-:yum: I like volleyball :volyeball: and running :runner:
+:yum: I like volleyball :volleybal: and running :runner:
 
 
 

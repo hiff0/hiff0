@@ -1,8 +1,8 @@
 # Hi there, I'm [Vlad](https://t.me/Vladhiff) :wave:
 
-### I'm student from Russia :computer: :blue_book:
+### I'm student from Russia :school: :computer: :blue_book: 
 
-### About me
+### About me (⊙ˍ⊙)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,9 +13,9 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)  
 
 :seedling: I'm learning **backend** and **frontend**  
-:yum: I like volleyball :volleybal: and running :runner:
+:yum: I like volleyball :hand: and running :runner:
 
-
+[![trophy](https://github-profile-trophy.vercel.app/hiff0=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### My OS :cd:
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)

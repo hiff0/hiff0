@@ -15,8 +15,12 @@
 :seedling: I'm learning **backend** and **frontend**  
 :yum: I like volleyball :hand: and running :runner:
 
-[![trophy](https://github-profile-trophy.vercel.app/hiff0=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### My OS :cd:
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+
+### Contact me
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()

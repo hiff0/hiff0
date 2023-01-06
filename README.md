@@ -1,4 +1,4 @@
-# Hi there, I'm [Vlad](https://t.me/Vladhiff) :wave:
+# Hi there, I'm [Vlad](https://hiff0.github.io/portfolio/) :wave:
 
 ### I'm student from Russia :school: :computer: :blue_book: 
 

@@ -18,7 +18,7 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)  
 
 :seedling: I'm learning **frontend**  
-:yum: I like volleyball :hand: and running :runner:
+:yum: I like volleyball :hand: and running :runner:  
 I am interested in **Microfrontend** and new technologies  
 
 ### My OS :cd:

@@ -1,6 +1,6 @@
 # Hi there, I'm [Vlad](https://t.me/Vladhiff) :wave:
 
-### I'm Frontend developer from Russia :school: :computer: :blue_book: 
+### I'm Frontend developer:school: :computer: :blue_book: 
 
 ### About me (⊙ˍ⊙)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
